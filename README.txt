@@ -2,4 +2,4 @@
 
 this is my project
 
-some more text
+this is not much of a problem
