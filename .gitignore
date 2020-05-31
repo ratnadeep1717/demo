@@ -1,0 +1,2 @@
+//any file with .log extension is excluded
+*.log
